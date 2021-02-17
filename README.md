@@ -8,7 +8,7 @@
 
 <!-- Actual text -->
 
-You can find me  on [![LinkedIn][2.2]][2].
+You can find me  on  [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
