@@ -8,7 +8,7 @@
 
 <!-- Actual text -->
 
-You can find me  on  [![LinkedIn][2.2]][2].
+You can find me on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
@@ -17,6 +17,7 @@ You can find me  on  [![LinkedIn][2.2]][2].
 <!-- Links to your social media accounts -->
 
 [2]: https://www.linkedin.com/in/jithin-babu-krishna-b7611973/
+
 <!---
 jithinbabu657/jithinbabu657 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
