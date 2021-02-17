@@ -1,5 +1,5 @@
 - 👋 Hi there I’m Jithin
-- 👀 I’m interested coding and resolving 🐞
+- 👀 I’m interested in coding and resolving 🐞
 - 🌱 I’m currently working for paypay
 - 💬 Ask me about Java, Springboot , Docker, AWS , UI Path .
 - ⚡ Fun fact: Love to do drawings and play music
