@@ -6,7 +6,7 @@
 
 ![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinbabu657&theme=tokyonight&show_icons=true&count_private=true)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jithinbabu657&repo=github-readme-stats)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jithinbabu657&repo=https://github.com/jithinbabu657/java-challenge)
 
 <!---
 jithinbabu657/jithinbabu657 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
