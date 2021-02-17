@@ -4,7 +4,7 @@
 - 💬 Ask me about Java, Springboot , Docker, UI Path .
 - ⚡ Fun fact: Love to do drawings and play music
 
-![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinbabu657&theme=tokyonight&show_icons=true&count_private=true)
+![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinbabu657&theme=tokyonight&show_icons=true&count_private=true&include_all_commits)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jithinbabu657&repo=kafka&theme=tokyonight&show_icons=true)](https://github.com/jithinbabu657/kafka)
 
