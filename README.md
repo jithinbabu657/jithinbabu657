@@ -8,7 +8,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jithinbabu657&repo=java-challenge&theme=tokyonight&show_icons=true)](https://github.com/jithinbabu657/java-challenge)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinbabu657&layout=compact@theme=nightowl&show_icons=true)](https://github.com/jithinbabu657)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jithinbabu657&layout=compact&theme=nightowl&show_icons=true)](https://github.com/jithinbabu657)
 <!---
 jithinbabu657/jithinbabu657 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
