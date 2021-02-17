@@ -1,7 +1,7 @@
 - 👋 Hi there I’m Jithin
 - 👀 I’m interested coding and resolving 🐞
 - 🌱 I’m currently working for paypay
-- 💬 Ask me about Java, Springboot , Docker, UI Path .
+- 💬 Ask me about Java, Springboot , Docker, AWS , UI Path .
 - ⚡ Fun fact: Love to do drawings and play music
 
 ![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinbabu657&theme=tokyonight&show_icons=true&count_private=true&include_all_commits)
