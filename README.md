@@ -7,7 +7,7 @@
 [![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinbabu657)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=#007396)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=#6DB33F)
+![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=#6DB33F)
 
 <!---
 jithinbabu657/jithinbabu657 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
