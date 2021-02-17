@@ -6,9 +6,17 @@
 
 [![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinbabu657)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=#007396)
-![](https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=#6DB33F)
+<!-- Actual text -->
 
+You can find me on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[2]: https://www.linkedin.com/in/jithin-babu-krishna-b7611973/
 <!---
 jithinbabu657/jithinbabu657 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
