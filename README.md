@@ -4,7 +4,7 @@
 - 💬 Ask me about Java, Springboot , Docker, UI Path .
 - ⚡ Fun fact: Love to do drawings and play music
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />
+[![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinbabu657)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 jithinbabu657/jithinbabu657 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
