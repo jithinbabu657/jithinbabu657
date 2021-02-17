@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and resolving 🐞
 - 🌱 I’m currently working for paypay
 - 💬 Ask me about Java, Springboot , Docker, AWS , UI Path .
-- ⚡ Fun fact: Love to do drawings and 🏓
+- ⚡ Fun fact: Love to 🎨 and 🏓
 
 
 ![Jithin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jithinbabu657&theme=tokyonight&show_icons=true&count_private=true&include_all_commits)
