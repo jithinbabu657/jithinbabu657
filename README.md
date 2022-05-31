@@ -1,6 +1,6 @@
 - 👋 Hi there I’m Jithin
 - 👀 I’m interested in coding and resolving 🐞
-- 🌱 I’m currently working for paypay
+- 🌱 I’m currently working for Cognizant
 - 💬 Ask me about Java, Springboot , Docker, AWS , UI Path .
 - ⚡ Fun fact: Love to 🎨 and 🏓
 
